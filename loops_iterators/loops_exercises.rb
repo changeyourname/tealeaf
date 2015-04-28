@@ -1,4 +1,4 @@
-# flow_exercises.rb
+# loop_exercises.rb
 
 
 state = "GO"
