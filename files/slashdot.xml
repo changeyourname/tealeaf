@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-04-28T08:23:10+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/04/28/0217238/kerbal-space-program-10-released-after-4-years-of-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/28/0256236/why-our-antiquated-power-grid-needs-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/04/28/0227244/new-zero-day-disclosed-in-wordpress-core-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/04/28/0156220/valve-pulls-the-plug-on-paid-mods-for-skyrim?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/27/2258249/new-privacy-threat-automated-vehicle-occupancy-detection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/27/2233244/the-engineers-lament----prioritizing-car-safety-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/27/2228253/holographic-principle-could-apply-to-our-universe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/27/222259/an-open-ranking-of-wikipedia-pages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/04/27/2013220/alibaba-looks-to-rural-china-to-popularize-its-mobile-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/27/2021221/texas-admonishes-judge-for-posting-facebook-updates-about-her-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/27/2010220/imagination-to-release-open-mips-design-to-academia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/27/1958222/supreme-court-to-consider-data-aggregation-suit-against-spokeo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://developers.slashdot.org/story/15/04/27/1754230/javascript-devs-is-it-still-worth-learning-jquery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/27/1750226/smart-headlights-adjust-to-aid-drivers-in-difficult-conditions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://entertainment.slashdot.org/story/15/04/27/180253/espn-sues-verizon-to-stop-new-sports-free-tv-bundles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://games.slashdot.org/story/15/04/28/0217238/kerbal-space-program-10-released-after-4-years-of-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Kerbal Space Program 1.0 Released After 4 Years of Development</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H6K5SIvjX1c/kerbal-space-program-10-released-after-4-years-of-development</link>
+<description>hampton2600 writes: The beloved space simulator game Kerbal Space Program has just hit version 1.0 after four years in development. It has risen to prominence in public beta, but the full release brings a host of new features: "The flight model has had a complete overhaul, meaning the lift is now calculated correctly to all lift-generating parts, which includes lifting bodies. The drag simulation has also been completely revised, and uses automatically pre-calculated data based on the each part&amp;rsquo;s geometry, to be finally applied based on not just the orientation of parts in flight, but also taking other parts into consideration. ... A new heating simulation has been implemented together with the improved aerodynamics. Now, not only temperature but also energy flux is considered when making heat calculations, meaning radiative, conductive, and convective heating and cooling are all simulated and all parts have their individual thermal properties. Parts will emit a blackbody radiation glow if they get hot enough." To the mun!&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Kerbal+Space+Program+1.0+Released+After+4+Years+of+Development%3A+http%3A%2F%2Fbit.ly%2F1IhUDD5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F04%2F28%2F0217238%2Fkerbal-space-program-10-released-after-4-years-of-development%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/04/28/0217238/kerbal-space-program-10-released-after-4-years-of-development?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/04/28/0217238/kerbal-space-program-10-released-after-4-years-of-development?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7327221&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H6K5SIvjX1c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-28T07:44:00+00:00</dc:date>
+<dc:subject>pcgames</dc:subject>
+<slash:department>onward-and-upward</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,4,4,3,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/04/28/0217238/kerbal-space-program-10-released-after-4-years-of-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/28/0256236/why-our-antiquated-power-grid-needs-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Our Antiquated Power Grid Needs Battery Storage</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IhnipE7Q2o8/why-our-antiquated-power-grid-needs-battery-storage</link>
+<description>Lucas123 writes: Last year, renewable energy sources accounted for half of new installed electric-generation capacity (natural gas units made up most of the remainder). As more photovoltaic panels are installed on rooftops around the nation, an antiquated power grid is being overburdened by a bidirectional load its was never engineered to handle. The Hawaiian Electric Company, for example, said it's struggling with electricity "backflow" that could destabilize its system. Batteries for distributed renewable power has the potential to mitigate the load on the national grid by allowing a redistribution of power during peak hours. Because of this, Tesla, which is expected to announce batteries for homes and utilities on Thursday, and others are targeting a market estimated to be worth $1.2B by 2019. Along with taking up some of the load during peak load, battery capacity can be used when power isn't being generated by renewable systems, such as at night and during inclement weather. That also reduces grid demand.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Our+Antiquated+Power+Grid+Needs+Battery+Storage%3A+http%3A%2F%2Fbit.ly%2F1Fti3oc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F28%2F0256236%2Fwhy-our-antiquated-power-grid-needs-battery-storage%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/28/0256236/why-our-antiquated-power-grid-needs-battery-storage?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/28/0256236/why-our-antiquated-power-grid-needs-battery-storage?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7327349&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IhnipE7Q2o8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-28T06:14:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>investing-in-wires-is-boring-but-necessary</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,26,22,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/28/0256236/why-our-antiquated-power-grid-needs-battery-storage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/04/28/0227244/new-zero-day-disclosed-in-wordpress-core-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Zero Day Disclosed In WordPress Core Engine</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8KAeeVk4VdA/new-zero-day-disclosed-in-wordpress-core-engine</link>
+<description>Trailrunner7 writes: WordPress security issues have for the most part involved a vulnerable plug-in, but a Finnish researcher has disclosed some details on a zero-day vulnerability he discovered in the WordPress 4.2 and earlier core engine that could lead to remote code execution on the webserver. Juoko Pynnonen of Klikki Oy reported a new and unpatched stored cross-site scripting vulnerability in the platform; a similar bug was patched this week by WordPress developers, but only 14 months after it was reported. The vulnerability allows an attacker to inject JavaScript in the WordPress comment field; the comment has to be at least 66,000 characters long and it will be triggered when the comment is viewed, Pynnonen said. "An unauthenticated attacker can store JavaScript on WordPress pages and blog posts. If triggered by an administrator, this leads to server-side code execution under default settings," Pynnonen said. "A usable comment form is required. It looks like the script is not executed in the admin Dashboard, but only when viewing the post/page where the comment was entered. If comment moderation is enabled (the default setting) then the comment won't appear on the page until it has been approved by an admin/moderator. Under default settings, after one 'harmless' comment is approved, the attacker is free from subsequent moderation and can inject the exploit to several pages and blog posts."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Zero+Day+Disclosed+In+WordPress+Core+Engine%3A+http%3A%2F%2Fbit.ly%2F1Ihz4T8"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F04%2F28%2F0227244%2Fnew-zero-day-disclosed-in-wordpress-core-engine%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/04/28/0227244/new-zero-day-disclosed-in-wordpress-core-engine?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/04/28/0227244/new-zero-day-disclosed-in-wordpress-core-engine?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7327259&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8KAeeVk4VdA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-28T05:16:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>pressing-words-is-risky-business</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,24,15,10,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/04/28/0227244/new-zero-day-disclosed-in-wordpress-core-engine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/04/28/0156220/valve-pulls-the-plug-on-paid-mods-for-skyrim?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Valve Pulls the Plug On Paid Mods For Skyrim</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Qy__53GcVks/valve-pulls-the-plug-on-paid-mods-for-skyrim</link>
+<description>westlake writes: Valve has abandoned its attempt to introduce paid mods to Skyrim on Steamworks, following furious and unrelenting complaints by the gaming community that did not spare Gabe Newell. Valve said, "[O]ur main goals were to allow mod makers the opportunity to work on their mods full time if they wanted to, and to encourage developers to provide better support to their mod communities. We thought this would result in better mods for everyone, both free &amp;amp; paid." Bethesda had similar goals, saying, "There are certainly other ways of supporting modders, through donations and other options. We are in favor of all of them. One doesn't replace another, and we want the choice to be the community&amp;rsquo;s. Yet, in just one day, a popular mod developer made more on the Skyrim paid workshop than he made in all the years he asked for donations."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Valve+Pulls+the+Plug+On+Paid+Mods+For+Skyrim%3A+http%3A%2F%2Fbit.ly%2F1PPEmHQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F04%2F28%2F0156220%2Fvalve-pulls-the-plug-on-paid-mods-for-skyrim%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/04/28/0156220/valve-pulls-the-plug-on-paid-mods-for-skyrim?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/04/28/0156220/valve-pulls-the-plug-on-paid-mods-for-skyrim?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7327127&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Qy__53GcVks" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-28T04:17:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>entitled-wheel-gets-the-grease</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>72</slash:comments>
+<slash:hit_parade>72,69,38,32,10,5,3</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/04/28/0156220/valve-pulls-the-plug-on-paid-mods-for-skyrim?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/27/2258249/new-privacy-threat-automated-vehicle-occupancy-detection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Privacy Threat: Automated Vehicle Occupancy Detection</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dD00ITFxLJY/new-privacy-threat-automated-vehicle-occupancy-detection</link>
+<description>An anonymous reader writes: The Electronic Frontier Foundation is warning against a new potential privacy threat: cameras that look inside cars and try to identify how many people are inside. This technology is a natural combination of simpler ones that have existed for years: basic object recognition software and road-side cameras (red light cameras, speeding cameras, license plate readers &amp;mdash; you name it). Of course, we can extrapolate just a bit further, and point out that as soon as the cameras have high enough resolution, they can start running face recognition algorithms on the images, and determine the identities of a vehicle's occupants. "The San Diego Association of Governments (SANDAG), a government umbrella group that develops transportation and public safety initiatives across the San Diego County region, estimates that 15% of drivers in High Occupancy Vehicle (HOV) lanes aren't supposed to be there. After coming up short with earlier experimental projects, the agency is now testing a brand new technology to crack down on carpool-lane scofflaws on the I-15 freeway. ... In short: the technology is looking at your image, the image of the people you're with, your location, and your license plate. (SANDAG told CBS the systems will not be storing license plate data during the trial phase and the system will, at least for now, automatically redact images of drivers and passengers. Xerox's software, however, allows police the option of using a weaker form of redaction that can be reversed on request.)"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Privacy+Threat%3A+Automated+Vehicle+Occupancy+Detection%3A+http%3A%2F%2Fbit.ly%2F1FsR8sA"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F27%2F2258249%2Fnew-privacy-threat-automated-vehicle-occupancy-detection%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/27/2258249/new-privacy-threat-automated-vehicle-occupancy-detection?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/27/2258249/new-privacy-threat-automated-vehicle-occupancy-detection?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7326505&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dD00ITFxLJY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-28T02:18:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>shades-of-minority-report</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>63</slash:comments>
+<slash:hit_parade>63,60,44,29,6,4,2</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/27/2258249/new-privacy-threat-automated-vehicle-occupancy-detection?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/27/2233244/the-engineers-lament----prioritizing-car-safety-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Engineer's Lament -- Prioritizing Car Safety Issues</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HmDzdYqSjoc/the-engineers-lament----prioritizing-car-safety-issues</link>
+<description>An anonymous reader writes: Malcolm Gladwell has an article in The New Yorker about how automotive engineers handle issues of safety. There have been tons of car-related recalls lately, and even before that, we'd often hear about how some piece of engineering on a car was leading to a bunch of deaths. Sometimes it was a mistake, and sometimes it was an intentional design. But we hear about these issues through the lens of sensationalized media and public outrage &amp;mdash; the engineers working on these problems understand better that it's how you drive that gets you into trouble far more than what you drive. For example, the Ford Pinto became infamous for catching fire in crashes back in the 1970s. Gladwell says, "That's a rare event&amp;mdash;it happens once in every hundred crashes. In 1975-76, 1.9 per cent of all cars on the road were Pintos, and Pintos were involved in 1.9 per cent of all fatal fires. Let's try again. About fifteen per cent of fatal fires resulted from rear collisions. If we look just at that subset of the subset, Schwartz shows, we finally see a pattern. Pintos were involved in 4.1 per cent of all rear-collision fire fatalities&amp;mdash;which is to say that they may have been as safe as or safer than other cars in most respects but less safe in this one. ... You and I would feel safer in a car that met the 301 standard. But the engineer, whose aim is to maximize safety within a series of material constraints, cannot be distracted by how you and I feel."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Engineer's+Lament+--+Prioritizing+Car+Safety+Issues%3A+http%3A%2F%2Fbit.ly%2F1A80tQC"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F27%2F2233244%2Fthe-engineers-lament----prioritizing-car-safety-issues%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/27/2233244/the-engineers-lament----prioritizing-car-safety-issues?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/27/2233244/the-engineers-lament----prioritizing-car-safety-issues?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7326417&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HmDzdYqSjoc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-28T00:20:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>backseat-engineering</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>145</slash:comments>
+<slash:hit_parade>145,139,116,103,30,10,6</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/27/2233244/the-engineers-lament----prioritizing-car-safety-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/27/2228253/holographic-principle-could-apply-to-our-universe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Holographic Principle Could Apply To Our Universe</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/097OZv3maUU/holographic-principle-could-apply-to-our-universe</link>
+<description>New submitter citpyrc sends this news from the Vienna University of Technology: The "holographic principle" asserts that a mathematical description of the universe actually requires one fewer dimension than it seems. What we perceive as three dimensional may just be the image of two dimensional processes on a huge cosmic horizon. Up until now, this principle has only been studied in exotic spaces with negative curvature. This is interesting from a theoretical point of view, but such spaces are quite different from the space in our own universe. Results obtained by scientists at Vienna (abstract) now suggest that the holographic principle even holds in a flat spacetime, like ours.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Holographic+Principle+Could+Apply+To+Our+Universe%3A+http%3A%2F%2Fbit.ly%2F1dme7L0"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F27%2F2228253%2Fholographic-principle-could-apply-to-our-universe%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/27/2228253/holographic-principle-could-apply-to-our-universe?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/27/2228253/holographic-principle-could-apply-to-our-universe?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7326405&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/097OZv3maUU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-27T23:39:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>too-cool-for-the-third-dimension</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,74,46,31,11,5,4</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/27/2228253/holographic-principle-could-apply-to-our-universe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/27/222259/an-open-ranking-of-wikipedia-pages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>An Open Ranking of Wikipedia Pages</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6mef2hSf_Fc/an-open-ranking-of-wikipedia-pages</link>
+<description>vigna writes: The Laboratory for Web Algorithmics of the Universit&amp;#224; degli studi di Milano did it again: after creating the first open ranking of the World Wide Web they have put together the first entirely open ranking of Wikipedia, using Wikidata to categorize pages. The ranking is based on classic and easily explainable centrality measures or page views, and it is entirely open &amp;mdash; all data (Wikipedia and Wikidata dumps) and all software used is publicly available. Just in case you wonder, the most important food is chocolate, the most important band are the Beatles and the most important idea is atheism.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=An+Open+Ranking+of+Wikipedia+Pages%3A+http%3A%2F%2Fbit.ly%2F1J4UOjr"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F27%2F222259%2Fan-open-ranking-of-wikipedia-pages%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/27/222259/an-open-ranking-of-wikipedia-pages?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/27/222259/an-open-ranking-of-wikipedia-pages?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7326313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6mef2hSf_Fc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-27T22:56:00+00:00</dc:date>
+<dc:subject>wikipedia</dc:subject>
+<slash:department>citation-needed</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,29,13,11,5,3,3</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/27/222259/an-open-ranking-of-wikipedia-pages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/04/27/2013220/alibaba-looks-to-rural-china-to-popularize-its-mobile-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Alibaba Looks To Rural China To Popularize Its Mobile OS</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MOxtVAU1WkI/alibaba-looks-to-rural-china-to-popularize-its-mobile-os</link>
+<description>itwbennett writes: E-commerce giant Alibaba Group hasn't given up on its YunOS mobile operating system, and is taking the software to China's rural markets through a series of low-cost phones, which will be built by lesser-known Chinese brands and will range from 299 yuan ($49) to 699 yuan. Slashdot readers may remember that in 2012, Google claimed it was a variant of its Android OS, sparking a clash that threatened to derail Alibaba's effort to popularize the mobile OS.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Alibaba+Looks+To+Rural+China+To+Popularize+Its+Mobile+OS%3A+http%3A%2F%2Fbit.ly%2F1bMvAfh"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F04%2F27%2F2013220%2Falibaba-looks-to-rural-china-to-popularize-its-mobile-os%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/04/27/2013220/alibaba-looks-to-rural-china-to-popularize-its-mobile-os?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/04/27/2013220/alibaba-looks-to-rural-china-to-popularize-its-mobile-os?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325907&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MOxtVAU1WkI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T22:14:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>taking-it-to-the-country</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,18,9,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/04/27/2013220/alibaba-looks-to-rural-china-to-popularize-its-mobile-os?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/27/2021221/texas-admonishes-judge-for-posting-facebook-updates-about-her-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Texas Admonishes Judge For Posting Facebook Updates About Her Trials</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mj1uU21jo8U/texas-admonishes-judge-for-posting-facebook-updates-about-her-trials</link>
+<description>An anonymous reader writes: Michelle Slaughter, a Galveston County judge, says she will appeal a public admonition from state officials that criticized her Facebook posts about cases brought before her court. From the article: "The State Commission on Judicial Conduct ordered Michelle Slaughter, a Galveston County judge, to enroll in a four-hour class on the 'proper and ethical use of social media by judges.' The panel concluded that the judge's posts cast 'reasonable doubt' on her impartiality. At the beginning of a high-profile trial last year in which a father was accused of keeping his nine-year-old son in a six-foot by eight-foot wooden box, the judge instructed jurors not to discuss the case against defendant David Wieseckel with anyone. 'Again, this is by any means of communication. So no texting, e-mailing, talking person to person or on the phone or on Facebook. Any of that is absolutely forbidden,' the judge told jurors. But Slaughter didn't take her own advice, leading to her removal from the case and a mistrial. The defendant eventually was acquitted of unlawful-restraint-of-a-child charges."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Texas+Admonishes+Judge+For+Posting+Facebook+Updates+About+Her+Trials%3A+http%3A%2F%2Fbit.ly%2F1bMsXtV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F27%2F2021221%2Ftexas-admonishes-judge-for-posting-facebook-updates-about-her-trials%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/27/2021221/texas-admonishes-judge-for-posting-facebook-updates-about-her-trials?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/27/2021221/texas-admonishes-judge-for-posting-facebook-updates-about-her-trials?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325939&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mj1uU21jo8U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T21:30:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>was-that-wrong?</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>72</slash:comments>
+<slash:hit_parade>72,69,35,27,7,3,2</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/27/2021221/texas-admonishes-judge-for-posting-facebook-updates-about-her-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/27/2010220/imagination-to-release-open-mips-design-to-academia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Imagination To Release Open MIPS Design To Academia</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pxS_6Hh-hAY/imagination-to-release-open-mips-design-to-academia</link>
+<description>DeviceGuru writes: Imagination Technologies has developed a Linux-ready academic version of its 32-bit MIPS architecture MicroAptiv processor design, and is giving it away free to universities for use in computer research and education. As the MIPSfpga name suggests, the production-quality RTL (register transfer level) design abstraction is intended to run on industry standard FPGAs. Although MIPSfpga is available as a fully visible RTL design, MIPSfpga is not fully open source, according to the announcement from Robert Owen, Manager of Imagination's University Programme. Academic users can use and modify MIPSfpga as they wish, but cannot build it into silicon. "If you modify it, you must talk to us first if you wish to patent the changes," writes Owen.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Imagination+To+Release+Open+MIPS+Design+To+Academia%3A+http%3A%2F%2Fbit.ly%2F1PNzMty"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F27%2F2010220%2Fimagination-to-release-open-mips-design-to-academia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/27/2010220/imagination-to-release-open-mips-design-to-academia?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/27/2010220/imagination-to-release-open-mips-design-to-academia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325895&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pxS_6Hh-hAY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T21:08:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>some-strings-attached</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,27,20,2,0,0</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/27/2010220/imagination-to-release-open-mips-design-to-academia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/27/1958222/supreme-court-to-consider-data-aggregation-suit-against-spokeo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Supreme Court To Consider Data Aggregation Suit Against Spokeo</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cDUG8-hJu-s/supreme-court-to-consider-data-aggregation-suit-against-spokeo</link>
+<description>BUL2294 writes: Consumerist and Associated Press are reporting that the Supreme Court has taken up the case of Spokeo, Inc. v. Robins &amp;mdash; a case where Spokeo, as a data aggregator, faces legal liability and Fair Credit Reporting Act violations for providing information on Thomas Robins, an individual who has not suffered "a specific harm" directly attributable to the inaccurate data Spokeo collected on him. 
+
+From SCOTUSblog: "Robins, who filed a class-action lawsuit, claimed that Spokeo had provided flawed information about him, including that he had more education than he actually did, that he is married although he remains single, and that he was financially better off than he actually was. He said he was unemployed and looking for work, and contended that the inaccurate information would make it more difficult for him to get a job and to get credit and insurance." So, while not suffering a specific harm, the potential for harm based on inaccurate data exists. Companies such as Facebook and Google are closely watching this case, given the potential of billions of dollars of liability for selling inaccurate information on their customers and other people.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Supreme+Court+To+Consider+Data+Aggregation+Suit+Against+Spokeo%3A+http%3A%2F%2Fbit.ly%2F1ExefS5"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F27%2F1958222%2Fsupreme-court-to-consider-data-aggregation-suit-against-spokeo%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/27/1958222/supreme-court-to-consider-data-aggregation-suit-against-spokeo?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/27/1958222/supreme-court-to-consider-data-aggregation-suit-against-spokeo?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325873&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cDUG8-hJu-s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T20:46:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>getting-the-numbers-right</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,55,38,33,13,6,1</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/27/1958222/supreme-court-to-consider-data-aggregation-suit-against-spokeo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://developers.slashdot.org/story/15/04/27/1754230/javascript-devs-is-it-still-worth-learning-jquery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>JavaScript Devs: Is It Still Worth Learning jQuery?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/a2CIDiI-06M/javascript-devs-is-it-still-worth-learning-jquery</link>
+<description>Nerval's Lobster writes: If you're learning JavaScript and Web development, you might be wondering whether to learn jQuery. After nearly a decade of existence, jQuery has grown into a fundamental part of JavaScript coding in Web development. But now we're at a point where many of the missing pieces (and additional features) jQuery filled in are present in browsers. So do you need to learn jQuery anymore? Some developers don't think so. The official jQuery blog, meanwhile, is pushing a separate jQuery version for modern browsers, in an attempt to keep people involved. And there are still a few key reasons to keep learning jQuery: Legacy code. If you're going to go to work at a company that already has JavaScript browser code, there's a strong possibility it has jQuery throughout its code. There's also a matter of preference: People still like jQuery and its elegance, and they're going to continue using it, even though they might not have to.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=JavaScript+Devs%3A+Is+It+Still+Worth+Learning+jQuery%3F%3A+http%3A%2F%2Fbit.ly%2F1OZbtqd"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F15%2F04%2F27%2F1754230%2Fjavascript-devs-is-it-still-worth-learning-jquery%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://developers.slashdot.org/story/15/04/27/1754230/javascript-devs-is-it-still-worth-learning-jquery?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://developers.slashdot.org/story/15/04/27/1754230/javascript-devs-is-it-still-worth-learning-jquery?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325481&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/a2CIDiI-06M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T20:03:00+00:00</dc:date>
+<dc:subject>java</dc:subject>
+<slash:department>to-learn-or-not-to-learn</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>163</slash:comments>
+<slash:hit_parade>163,156,112,83,30,20,12</slash:hit_parade>
+<feedburner:origLink>http://developers.slashdot.org/story/15/04/27/1754230/javascript-devs-is-it-still-worth-learning-jquery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/27/1750226/smart-headlights-adjust-to-aid-drivers-in-difficult-conditions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Smart Headlights Adjust To Aid Drivers In Difficult Conditions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/P3Bd9Ybj96Y/smart-headlights-adjust-to-aid-drivers-in-difficult-conditions</link>
+<description>An anonymous reader writes: Researchers at Carnegie Mellon University's Robotics Institute are developing smart headlights that not only trace a car's movement around bends, but are programmable to assist a driver in a wide range of driving conditions. The research team, at the institute's Illumination and Imaging Laboratory, is looking into designing headlights which do not highlight raindrops and snowflakes in bad weather, instead passing light around the individual drops and improving visibility. Its near-future design would also be able to avoid glare even when the high beam is in use, detecting up-coming vehicles and disabling the range of light that is directed at it. They also hope to incorporate GPS data to adjust the direction of the headlights according to the lane that a driver is occupying, illuminating it more brightly compared to surrounding lanes. The technology is supported by a looped system which will constantly read, assess and react to driving conditions. The prototype also features a built-in camera to capture visual data before transferring it to a computer processor installed in the vehicle, where it can be analyzed.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Smart+Headlights+Adjust+To+Aid+Drivers+In+Difficult+Conditions%3A+http%3A%2F%2Fbit.ly%2F1EwV9LW"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F27%2F1750226%2Fsmart-headlights-adjust-to-aid-drivers-in-difficult-conditions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/27/1750226/smart-headlights-adjust-to-aid-drivers-in-difficult-conditions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/27/1750226/smart-headlights-adjust-to-aid-drivers-in-difficult-conditions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325445&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/P3Bd9Ybj96Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T19:20:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>all-the-better-to-see-you-with</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>98</slash:comments>
+<slash:hit_parade>98,96,67,60,11,7,5</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/27/1750226/smart-headlights-adjust-to-aid-drivers-in-difficult-conditions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://entertainment.slashdot.org/story/15/04/27/180253/espn-sues-verizon-to-stop-new-sports-free-tv-bundles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>ESPN Sues Verizon To Stop New Sports-Free TV Bundles</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xs47P0v36tk/espn-sues-verizon-to-stop-new-sports-free-tv-bundles</link>
+<description>Mr D from 63 writes: ESPN isn't a fan of Verizon's new way of offering cable channels under its Fios TV service &amp;mdash; they're now suing Verizon for it. The lawsuit comes after Verizon unveiled new bundles that allow customers to choose specific packages of channels that can be swapped every 30 days. ESPN claims this offer is not in compliance with their agreements with Verizon. In the U.S., ESPN depends heavily on viewership during the football season, then basketball. "ESPN is at the forefront of embracing innovative ways to deliver high-quality content and value to consumers on multiple platforms, but that must be done in compliance with our agreements," said an ESPN spokeswoman in a statement. "We simply ask that Verizon abide by the terms of our contracts."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=ESPN+Sues+Verizon+To+Stop+New+Sports-Free+TV+Bundles%3A+http%3A%2F%2Fbit.ly%2F1bwJ26g"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F15%2F04%2F27%2F180253%2Fespn-sues-verizon-to-stop-new-sports-free-tv-bundles%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://entertainment.slashdot.org/story/15/04/27/180253/espn-sues-verizon-to-stop-new-sports-free-tv-bundles?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://entertainment.slashdot.org/story/15/04/27/180253/espn-sues-verizon-to-stop-new-sports-free-tv-bundles?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7325489&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xs47P0v36tk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-27T18:36:00+00:00</dc:date>
+<dc:subject>tv</dc:subject>
+<slash:department>sports-or-nothing</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>286</slash:comments>
+<slash:hit_parade>286,274,200,169,59,33,19</slash:hit_parade>
+<feedburner:origLink>http://entertainment.slashdot.org/story/15/04/27/180253/espn-sues-verizon-to-stop-new-sports-free-tv-bundles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

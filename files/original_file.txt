@@ -1,0 +1,2 @@
+another example of writing a file.
+More text goes here, my friend
