@@ -75,9 +75,69 @@ puts array_with_hashes
 hash_with_arrays = {fav_colors: ['red','blue','green'], fav_foods: ['ice cream', 'pizza']}
 puts hash_with_arrays
 
-# ruby-doc.org - I guess I like this one because it's the official?
+# Exercise 11 
+#ruby-doc.org - I guess I like this one because it's the official?
 # Was looking at the "cmath" API. Could be pretty useful if you were doing 
 # lots of vector analysis, or something with electronics or kinematics
 # in that case as well, it would be good to know the limitations and protocols
 
+puts "Exercise 12"
 
+contact_data = [["joe@email.com", "123 Main st.", "555-123-4567"], ["sally@email.com", "404 Not Found Dr.", "123-234-3454"]]
+contacts = {"Joe Smith" => {}, "Sally Johnson" => {}}
+
+contacts["Joe Smith"][:email] = contact_data[0][0]
+contacts["Joe Smith"][:address] = contact_data[0][1]
+contacts["Joe Smith"][:phone] = contact_data[0][2]
+contacts["Sally Johnson"][:email] = contact_data[1][0]
+contacts["Sally Johnson"][:address] = contact_data[1][1]
+contacts["Sally Johnson"][:phone] = contact_data[1][2]
+
+puts contacts
+
+puts "Exercise 13"
+
+puts "Joe's email address is: #{contacts['Joe Smith'][:email]}"
+puts "Sally's phone number is: #{contacts['Sally Johnson'][:phone]}"
+
+puts "Exercise 14"
+
+contact_data = ["joe@email.com", "123 Main st.", "555-123-4567"]
+contacts = {"Joe Smith" => {}} #reinitialize "Joe Smith"
+fields = [:email, :address, :phone] #create array for iteration
+
+contacts.each do |name, hash|
+  fields.each do |field|
+    hash[field] = contact_data.shift
+  end
+end
+
+puts contacts["Joe Smith"]
+
+puts "Exercise 15"
+
+arr = ['snow', 'winter', 'ice', 'slippery', 'salted roads', 'white trees']
+
+arr.delete_if {|word| word.start_with?('s')}
+
+puts arr.join(' ')
+
+arr = ['snow', 'winter', 'ice', 'slippery', 'salted roads', 'white trees']
+
+arr.delete_if {|word| (word.start_with?('s') || word.start_with?('w')) }
+
+puts arr.join(' ')
+
+# Exercise 16
+
+puts "Exercise 16"
+
+a = ['white snow', 'winter wonderland', 'melting ice', 'slippery sidewalk', 'salted roads', 'white trees']
+
+a = a.map {|word| word.split}
+
+puts a 
+
+a = a.flatten
+
+puts a 
