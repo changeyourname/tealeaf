@@ -14,7 +14,6 @@ adult_age = 18
 senior_age = 65
 
 def demo (population)
-	
 	population.each do |person, value|
 		if value['age'] >= 65
 			value[:demographic] = "senior"
