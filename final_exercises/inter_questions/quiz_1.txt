@@ -36,3 +36,23 @@ class String
     result
   end
 end
+
+10. 
+
+adult_age = 18
+senior_age = 65
+
+def demo (population)
+	population.each do |person, value|
+		if value['age'] >= 65
+			value[:demographic] = "senior"
+		elsif value['age'] >= 18 
+			value[:demographic] = "adult"
+		else
+			value[:demographic] = "kid"
+		end
+	end
+	return population
+end
+
+puts demo(munsters)
