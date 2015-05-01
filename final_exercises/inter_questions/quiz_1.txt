@@ -1,0 +1,38 @@
+1. 10.times{ |index| puts "The Flintstones Rock!".rjust(21 + index) }
+
+2. statement.scan(/\w/).inject(Hash.new(0)){|h, c| h[c] += 1; h}
+
+3. The type mismatch (string and fixnum)
+	You could do (40+2).to_s
+	or interpolate: #{40+2}
+
+4. Both make the iterations fewer, as the enumerator would skip the deleted elements. The first loop: 1, 3 The second loop: 1, 2
+
+5. You have to check at the entrance to the loop. Maybe something like this:  
+
+	while dividend > 0 do 
+
+	Bonus: tests to see whether the division was even (i.e. no remainder from modulo)
+
+	Bonus: this returns divisors at the end of the method
+
+6. The first method alters "buffer" as an input argument, the second leaves the input arguments unmodified. 
+
+7. The limit variable is out of scope of the def fib. You could pass it in as an argument.
+
+8. words.split.map { |word| word.downcase.capitalize }.join(' ')
+
+9. 
+
+class String
+  def short_version(length)
+    result = self.dup
+    starting_length = self.length
+    if starting_length > length
+      result = result[0, length - 1]
+      result += "..."
+    end
+
+    result
+  end
+end
