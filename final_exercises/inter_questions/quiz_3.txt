@@ -1,0 +1,10 @@
+1. Interesting. Must be careful when referring to objects inside a block! 
+
+2. Another lesson learned: only "Values" get passed in. Naming them the same as other variables out of scope doesn't do much, and could lead to unpredictable results if you use the object inside and outside of the def. Probably not a good or clear way to code, anyway. 
+
+3. So, the nuance here is the fact that the += string operation creates a new object. That object is out of scope to the rest of the program. 
+
+4. More trickery with the object. This is obviously going to be something to understand well and watch out for. 
+
+5. ternary operator "?""
+		The solution listed is shorter still. 
