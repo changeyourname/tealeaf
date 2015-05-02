@@ -1,0 +1,19 @@
+1. I would have expected it to throw an error, but that's an interesting behavior. Probably not the best practice to not have that more tightly controlled, though. 
+
+2. Also unexpected, but the nuance here again is whether the methods act on the objects themselves or on a new object. 
+
+3. A, B output as expected. C is different because gsub sees that the strings are unchanged and keeps the object association
+
+4. see uuid_generator.rb
+
+5. see monkey_patch.rb 
+
+6. Need to add a couple things: 
+
+	variable like "count" that's initialized to 0, then incremented each time a valid number is found. Add if statement and return false if count < 4 at the end of the method. 
+
+	change the if statement from break. If it's not a valid number, you can return false right then and skip the rest of the execution
+
+	bonus: also return false if the number is greater than 255... (invalid IP)
+
+
